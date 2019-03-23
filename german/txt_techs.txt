@@ -15,10 +15,10 @@ Sedentismus
 Die Praxis, dauerhaft an einem Ort zu leben. 
 
 #tech_eldcncl
-ältestenrat
+Ältestenrat
 
 #tech_eldcncl_dscr_1
-Ein ältestenrat aus jeder Familie des Stammes, der sich versammelt, um Probleme und Konflikte innerhalb des Stammes zu lösen: weise alte Schweine, die es geschafft haben, so weit am Leben zu bleiben, verdienen etwas Respekt und sind es wert, gehört zu werden.
+Ein Ältestenrat aus jeder Familie des Stammes, der sich versammelt, um Probleme und Konflikte innerhalb des Stammes zu lösen. Weise, alte Schweine, die es geschafft haben, so weit am Leben zu bleiben, verdienen etwas Respekt und sind es wert, gehört zu werden.
 
 #tech_privl
 Privilegien
@@ -42,13 +42,13 @@ Eine Gruppe von Porcos, die sich ausschließlich der Verwaltung und Kontrolle de
 Wachen
 
 #tech_guard_dscr_1
-Die Wachen erzwingen die Autorität der Regierung, indem sie die Städte patrouillieren und die Regierung und ihre Beamten schützen.
+Die Wachen sichern die Autorität der Regierung, indem sie die Städte patrouillieren und die Regierung und ihre Beamten schützen.
 
 #tech_tribut
 Tribute
 
 #tech_tribut_dscr_1
-Die Regierung ist voll von Porcos, die ihre ganze Zeit damit verbringen, die Dinge zu regeln: Du hast keine Zeit für minderwertige Bauernarbeit! Aber natürlich müssen sie noch essen und haben schöne, glänzende Dinge. Es ist daher nur natürlich, dass alle anderen einen Teil ihrer Arbeit an die "Gemeinschaft" zum Wohle aller abgeben.
+Die Regierung ist voll von Porcos, die ihre ganze Zeit damit verbringen, die Dinge zu regeln: Diese hast keine Zeit für minderwertige Bauernarbeit! Aber natürlich müssen sie noch essen und wollen schöne, glänzende Dinge. Es ist daher nur natürlich, dass alle anderen einen Teil ihrer Arbeit an die "Gemeinschaft" zum Wohle aller abgeben.
 
 #tech_transac
 Transaktionsverfolgung
@@ -57,10 +57,10 @@ Transaktionsverfolgung
 Wir verfolgen Bestände, Transaktionen und Zahlungen, indem wir kleine Markierungen in nassem Ton auf eine besondere Weise machen, die nur einigen Porcos bekannt ist, die wir die Scribes nennen. Kein Grund mehr, sich an alles zu erinnern! Es macht die Verwaltung der Stadt viel einfacher, und wir können sicherstellen, dass die Dinge nicht mehr "vergessen" oder "verloren" werden....
 
 #tech_tax
-Besteürung
+Besteuerung
 
 #tech_tax_dscr_1
-Ein besseres Steürsystem, das eine effizientere Erhebung ermöglicht.
+Ein besseres Steuersystem, das eine effizientere Erhebung ermöglicht.
 
 #tech_laws
 Gesetzbuch
@@ -96,31 +96,31 @@ Märkte sind Orte mit spezialisierten Händlern, die mit den Bedürfnissen und A
 Portage
 
 #tech_portage_dscr_1
-Wir können jetzt Leute haben, die darauf spezialisiert sind, Waren durch die Gebiete zu transportieren, um einen konstanten Transfer von Ressourcen zu gewährleisten, anstatt sich auf manülle, einmalige Karawanen zu verlassen.
+Wir können jetzt Leute einstellen, die darauf spezialisiert sind, Waren durch Gebiete zu transportieren, um einen konstanten Transfer von Ressourcen zu gewährleisten, anstatt sich auf manuelle, einmalige Karawanen zu verlassen.
 
 #tech_packanim
 Packtiere
 
 #tech_packanim_dscr_1
-Wir können jetzt einige Tiere für den Transport von Fracht verwenden, indem wir schwere Taschen auf den Rücken legen und sie zu Fuß führen.
+Wir können jetzt einige Tiere für den Transport von Waren verwenden, indem wir schwere Taschen auf ihre Rücken legen und sie zu Fuß führen.
 
 #tech_tradewg
 Handelswagen
 
 #tech_tradewg_dscr_1
-Wir verwenden jetzt von Tieren gezogene Rollwagen, um große Mengen an Ladung zu transportieren.
+Wir verwenden jetzt von Tieren gezogene Rollwagen, um große Mengen an Waren zu transportieren.
 
 #tech_herb
 Kräuterkunde
 
 #tech_herb_dscr_1
-Das Studium von Pflanzen, Früchten und Wurzeln und deren Auswirkungen auf den Menschen, um Krankheiten und andere Leiden des Fleisches zu heilen.
+Das Studium von Pflanzen, Früchten und Wurzeln und deren Auswirkungen auf die Porcos, um Krankheiten und andere Leiden des Fleisches zu heilen.
 
 #tech_pictgrm
 Piktogrammbeschriftung
 
 #tech_pictgrm_dscr_1
-Schreiben über Objekte, Aktionen und Ideen mit Bildzeichen.
+Das Beschriften von Wänden, Gegenständen und viel mit mir Bildern.
 
 #tech_phonetic
 Phonetisches Schreiben
@@ -132,7 +132,7 @@ Schreiben mit einer begrenzten Anzahl von Zeichen, einem Alphabet, das gesproche
 Ausbildung
 
 #tech_educ_dscr_1
-Der Prozess der Erleichterung des Lernens und der Vermittlung von Wissen, Traditionen, Fähigkeiten, Werten, überzeugungen und Gewohnheiten.
+Der Prozess der Erleichterung des Lernens und der Vermittlung von Wissen, Traditionen, Fähigkeiten, Werten, Überzeugungen und Gewohnheiten.
 
 #tech_diagnos_dscr_1
 Der Prozess der Bestimmung, welche Krankheit oder welcher Zustand die Symptome und Anzeichen einer Person erklärt. 
